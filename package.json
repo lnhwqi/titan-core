@@ -12,7 +12,11 @@
     "check:all": "bash ./devops/dev/check-all.sh"
   },
   "dependencies": {
-    "elytra-ts": "^0.1.4"
+    "date-fns": "^4.1.0",
+    "decoder": "^1.1.6",
+    "decoders": "^2.7.0",
+    "elytra-ts": "^0.1.5",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^7.18.0",

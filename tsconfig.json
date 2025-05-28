@@ -16,6 +16,6 @@
     "strict": true,
     "strictNullChecks": true
   },
-  "include": ["a.ts"],
+  "include": ["Api/**/*", "App/**/*", "Data/**/*"],
   "exclude": ["node_modules"]
 }
